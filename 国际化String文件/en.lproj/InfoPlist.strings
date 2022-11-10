@@ -1,0 +1,34 @@
+/* 
+  InfoPlist.strings
+  PickfunForeign
+
+  Created by Carl on 2022/9/23.
+ KissXML 解析安卓的ios可以哪来使用
+*/
+
+
+CFBundleDisplayName = "Pickfun";
+NSBluetoothAlwaysUsageDescription = "APP需要您的允许才能允许蓝牙与设备通信";
+
+NSBluetoothPeripheralUsageDescription ="APP需要您的允许才能允许蓝牙与设备通信";
+
+NSCalendarsUsageDescription ="APP需要您的允许才能访问日历";
+
+NSCameraUsageDescription ="APP需要您的允许才能使用照相机功能";
+
+NSContactsUsageDescription ="APP需要您的允许才能访问您的通讯簿";
+
+NSLocationAlwaysUsageDescription ="APP需要您的允许才能始终启用位置功能 ";
+
+NSLocationWhenInUseUsageDescription ="APP需要您的允许才能始终启用位置功能 ";
+
+NSMicrophoneUsageDescription ="APP需要您的允许才能录制";
+
+NSPhotoLibraryAddUsageDescription ="APP需要您的允许才能将照片保存到相册 ";
+
+NSPhotoLibraryUsageDescription ="APP需要您的允许才能访问相册";
+
+NSSpeechRecognitionUsageDescription ="APP需要您的允许才能使用语音识别";
+
+NSAppleMusicUsageDescription = "APP需要你的允许才能访问多媒体";
+
