@@ -34,5 +34,8 @@ NSPhotoLibraryUsageDescription ="APP需要您的允许才能访问相册";
 
 NSSpeechRecognitionUsageDescription ="APP需要您的允许才能使用语音识别";
 
+
+
+
 NSAppleMusicUsageDescription = "APP需要你的允许才能访问多媒体";
 
